@@ -1,6 +1,6 @@
 # Hi, I’m @jackmhny
 - 🏫 I’m a junior at [The Lawrenceville School](https://lawrenceville.org)
-- 🌐 jackmhny.xyz
+- 🌐 [jackmhny.xyz](https://jackmhny.xyz)
 - ✉️ Reach me at jacksmahoney@gmail.com
 
 <!---
