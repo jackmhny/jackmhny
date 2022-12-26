@@ -1,9 +1,5 @@
 # Hi, I’m @jackmhny
-- 🏫 I’m a junior at [The Lawrenceville School](https://lawrenceville.org)
-- 🌐 [jackmhny.xyz](https://jackmhny.xyz)
-- ✉️ Reach me at jacksmahoney@gmail.com
-
-<!---
-jackmhny/jackmhny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🏫 I’m a senior at [The Lawrenceville School](https://lawrenceville.org)
+- 🏫 I'll be a freshman at [Northwestern University](https://northwestern.edu) next fall, studying Computer Science at [Weinberg](https://weinberg.northwestern.edu/index.html)
+- 🌐 My personal site is [jackmhny.xyz](https://jackmhny.xyz)
+- ✉️ Reach me at jackmahoney@u.northwestern.edu
