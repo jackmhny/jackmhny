@@ -1,4 +1,4 @@
 # Hi, I’m @jackmhny
-- 🏫 I'm a freshman at [Northwestern University](https://northwestern.edu), studying Computer Science in [Weinberg](https://weinberg.northwestern.edu/index.html)
-- 🌐 My personal site is [jackmhny.xyz](https://jackmhny.xyz)
-- ✉️ Reach me at jackmahoney2027@u.northwestern.edu
+- 🌐 My personal site is under contsruction at [jackmhny.xyz](https://jackmhny.xyz)
+- ✉️ Reach me at jacksmahoney@gmail.com
+- 🔐 **PGP Key:** Available on [Keybase](https://keybase.io/jackmhny) `9FB0 A3A9 0539 2E9E`
